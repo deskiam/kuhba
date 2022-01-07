@@ -6,9 +6,9 @@ url: "https://zamblador.web.app"  # http://localhost:4000
 title_slog: "" # Home pge slog
 title_sep: "" # Home
 # verification
-bing: ""
-yandex: ""
-google: ""
+bing: "236E4BD2B43F6FE3AADE37B9599300C0"
+yandex: "4ce24848e872ed60"
+google: "MJavsVfNgoSoIIgbYKVm8LRnwlBeaYc6pfStJxxWBiM"
 # encoding timezone
 encoding: "utf-8"
 timezone: UTC
